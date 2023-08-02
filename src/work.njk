@@ -1,0 +1,38 @@
+---
+pagination:
+  data: works
+  size: 1
+  alias: work
+layout: base.njk
+permalink: "works/{{ work.title | slugify }}.html"
+eleventyComputed:
+  title: "{{ work.title }} - Works"
+---
+
+<main class="work">
+  <h2>
+    {{ work.title }}
+    {% if work.subtitle %}<br>{{ work.subtitle }}{% endif %}
+  </h2>
+  {% if work.dedication %}
+  <p>{{ work.dedication | safe }}</p>
+  {% endif %}
+  <p>Instrumentation: {{ work.instrumentation }}</p>
+  {% if work.text %}
+  <p>Text: {{ work.text }}</p>
+  {% endif %}
+  <p>Composed: {{ work.compositionDate }}</p>
+  <p>Duration: {{ work.duration }}</p>
+  {% if work.explanatory %}
+  <p>{{ work.explanatory | safe }}</p>
+  {% endif %}
+  {% if work.youtubeUrl %}
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ work.youtubeUrl.split('.be/')[1] }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  {% endif %}
+  {% if work.bandcampEmbed %}
+  {{ work.bandcampEmbed | safe }}
+  {% endif %}
+  <section class="purchase">
+    <p>Price: ${{ work.price }} </p>
+  </section>
+</main>

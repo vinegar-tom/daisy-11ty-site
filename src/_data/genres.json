@@ -1,0 +1,18 @@
+[
+  {
+    "code": "guitar",
+    "name": "Guitar pieces"
+  },
+  {
+    "code": "ensemble",
+    "name": "Ensemble pieces"
+  },
+  {
+    "code": "solo",
+    "name": "Solo pieces"
+  },
+  {
+    "code": "vocal",
+    "name": "Vocal music"
+  }
+]
