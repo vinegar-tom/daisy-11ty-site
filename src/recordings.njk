@@ -1,0 +1,28 @@
+---
+title: Recordings
+layout: base.njk
+---
+
+<main class="recordings">
+  <h2>{{ title }}</h2>
+  {% for type in recordingTypes %}
+  <h3 id="type-{{ type.code }}">{{ type.name }}</h3>
+  <ul>
+    {% for recording in recordings %}
+    {% if recording.type === type.code %}
+    <li class="work-title">
+      <a href="{{ recording.url }}" target="_blank">
+      {{ recording.title }}
+    </a></li>
+    <ul>
+      {% if recording.description %}
+      <li>{{ recording.description | safe }}</li>
+      {% endif %}
+      <li>Released: {{ recording.releaseDate }}</li>
+      <li>{{ recording.embedCode | safe }}</li>
+    </ul>
+    {% endif %}
+    {% endfor %}
+  </ul>
+  {% endfor %}
+</main>

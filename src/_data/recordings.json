@@ -1,0 +1,50 @@
+[
+  {
+    "title": "bliss",
+    "type": "studio",
+    "description": "Label: <a href=\"https://aethersound.bandcamp.com/\">Æther Sound</a>",
+    "releaseDate": "February 18, 2022",
+    "url": "https://aethersound.bandcamp.com/album/bliss",
+    "embedCode": "<iframe style=\"border: 0; width: 100%; height: 120px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=3054278548/size=large/bgcol=333333/linkcol=4ec5ec/tracklist=false/artwork=small/transparent=true/\" seamless><a href=\"https://aethersound.bandcamp.com/album/bliss\">bliss by Ryann Daisy Swimmer</a></iframe>"
+  },
+  {
+    "title": "ascend | engulf",
+    "type": "studio",
+    "description": "",
+    "releaseDate": "February 26, 2021",
+    "url": "https://ryanndaisyswimmer.bandcamp.com/album/ascend-engulf",
+    "embedCode": "<iframe style=\"border: 0; width: 100%; height: 120px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=3607210254/size=large/bgcol=333333/linkcol=4ec5ec/tracklist=false/artwork=small/transparent=true/\" seamless><a href=\"https://ryanndaisyswimmer.bandcamp.com/album/ascend-engulf\">ascend | engulf by Ryann Daisy Swimmer</a></iframe>"
+  },
+  {
+    "title": "Ambient Pieces for Guitar (vol. 2)",
+    "type": "studio",
+    "description": "A short collection of pieces for guitar and pedalboard",
+    "releaseDate": "January 7, 2020",
+    "url": "https://ryanndaisyswimmer.bandcamp.com/album/ambient-pieces-for-guitar-vol-2",
+    "embedCode": "<iframe style=\"border: 0; width: 100%; height: 120px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=71115018/size=large/bgcol=333333/linkcol=4ec5ec/tracklist=false/artwork=small/transparent=true/\" seamless><a href=\"https://ryanndaisyswimmer.bandcamp.com/album/ambient-pieces-for-guitar-vol-2\">Ambient Pieces for Guitar (vol. 2) by Ryann Daisy Swimmer</a></iframe>"
+  },
+  {
+    "title": "Archived Ambient Pieces for Guitar (2016-2017)",
+    "type": "studio",
+    "description": "A short collection of once forgotten pieces for guitar and electronics",
+    "releaseDate": "January 7, 2019",
+    "url": "https://ryanndaisyswimmer.bandcamp.com/album/archived-ambient-pieces-for-guitar-2016-2017",
+    "embedCode": "<iframe style=\"border: 0; width: 100%; height: 120px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=663935727/size=large/bgcol=333333/linkcol=4ec5ec/tracklist=false/artwork=small/transparent=true/\" seamless><a href=\"https://ryanndaisyswimmer.bandcamp.com/album/archived-ambient-pieces-for-guitar-2016-2017\">Archived Ambient Pieces for Guitar (2016-2017) by Ryann Daisy Swimmer</a></iframe>"
+  },
+  {
+    "title": "Dysphoria",
+    "type": "studio",
+    "description": "A slowly moving harmonic wall of noise",
+    "releaseDate": "June 7, 2019",
+    "url": "https://ryanndaisyswimmer.bandcamp.com/album/dysphoria",
+    "embedCode": "<iframe style=\"border: 0; width: 100%; height: 120px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=1566544759/size=large/bgcol=333333/linkcol=4ec5ec/tracklist=false/artwork=small/transparent=true/\" seamless><a href=\"https://ryanndaisyswimmer.bandcamp.com/album/dysphoria\">Dysphoria by Ryann Daisy Swimmer</a></iframe>"
+  },
+  {
+    "title": "Termite",
+    "type": "studio",
+    "description": "Harsh Noise Wall<br>slowly degrading over time.",
+    "releaseDate": "January 8, 2016",
+    "url": "https://ryanndaisyswimmer.bandcamp.com/album/termite",
+    "embedCode": "<iframe style=\"border: 0; width: 100%; height: 120px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=3653682914/size=large/bgcol=333333/linkcol=4ec5ec/tracklist=false/artwork=small/transparent=true/\" seamless><a href=\"https://ryanndaisyswimmer.bandcamp.com/album/termite\">Termite by Ryann Daisy Swimmer</a></iframe>"
+  }
+]

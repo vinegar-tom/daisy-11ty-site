@@ -1,0 +1,18 @@
+[
+  {
+    "code": "studio",
+    "name": "Studio recordings"
+  },
+  {
+    "code": "live",
+    "name": "Live recordings"
+  },
+  {
+    "code": "comp",
+    "name": "Mixtapes/compilations"
+  },
+  {
+    "code": "collab",
+    "name": "Collaborative projects"
+  }
+]
