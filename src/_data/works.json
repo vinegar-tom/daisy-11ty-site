@@ -10,9 +10,9 @@
     "text": "",
     "explanatory": "",
     "youtubeUrl": "https://youtu.be/OmrW_dJE2AE",
-    "bandcampEmbed": "",
+    "bandcampEmbed": "<iframe style=\"border: 0; width: 100%; height: 120px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=4088598018/size=large/bgcol=333333/linkcol=4ec5ec/tracklist=false/artwork=small/track=3687473155/transparent=true/\" seamless><a href=\"https://ryanndaisyswimmer.bandcamp.com/album/live-at-icehouse-92022\">live at icehouse 9.20.22 by Ryann Daisy Swimmer</a></iframe>",
     "price": 20,
-    "sampleScorePath": ""
+    "sampleScorePath": "Eternal Day and its many variations (With Watermark).pdf"
   },
   {
     "title": "ascend | engulf",
@@ -27,7 +27,7 @@
     "youtubeUrl": "https://youtu.be/zFTTpDc_kDw",
     "bandcampEmbed": "<iframe style=\"border: 0; width: 100%; height: 120px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=3607210254/size=large/bgcol=333333/linkcol=4ec5ec/tracklist=false/artwork=small/transparent=true/\" seamless><a href=\"https://ryanndaisyswimmer.bandcamp.com/album/ascend-engulf\">ascend | engulf by Ryann Daisy Swimmer</a></iframe>",
     "price": 25,
-    "sampleScorePath": ""
+    "sampleScorePath": "ascend _ engulf (With Watermark).pdf"
   },
   {
     "title": "I Can’t Teach You Empathy",
@@ -40,9 +40,9 @@
     "text": "",
     "explanatory": "",
     "youtubeUrl": "",
-    "bandcampEmbed": "",
+    "bandcampEmbed": "<iframe style=\"border: 0; width: 100%; height: 120px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=71115018/size=large/bgcol=333333/linkcol=4ec5ec/tracklist=false/artwork=small/track=4053829943/transparent=true/\" seamless><a href=\"https://ryanndaisyswimmer.bandcamp.com/album/ambient-pieces-for-guitar-vol-2\">Ambient Pieces for Guitar (vol. 2) by Ryann Daisy Swimmer</a></iframe>",
     "price": 20,
-    "sampleScorePath": ""
+    "sampleScorePath": "I Can_t Teach You Empathy (With Watermark).pdf"
   },
   {
     "title": "Singular They",
@@ -55,9 +55,9 @@
     "text": "",
     "explanatory": "",
     "youtubeUrl": "",
-    "bandcampEmbed": "",
+    "bandcampEmbed": "<iframe style=\"border: 0; width: 100%; height: 120px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=71115018/size=large/bgcol=333333/linkcol=4ec5ec/tracklist=false/artwork=small/track=865294996/transparent=true/\" seamless><a href=\"https://ryanndaisyswimmer.bandcamp.com/album/ambient-pieces-for-guitar-vol-2\">Ambient Pieces for Guitar (vol. 2) by Ryann Daisy Swimmer</a></iframe>",
     "price": 20,
-    "sampleScorePath": ""
+    "sampleScorePath": "Singular They (With Watermark).pdf"
   },
   {
     "title": "Q+",
@@ -70,9 +70,9 @@
     "text": "",
     "explanatory": "",
     "youtubeUrl": "",
-    "bandcampEmbed": "",
+    "bandcampEmbed": "<iframe style=\"border: 0; width: 100%; height: 120px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=71115018/size=large/bgcol=333333/linkcol=4ec5ec/tracklist=false/artwork=small/track=1657001941/transparent=true/\" seamless><a href=\"https://ryanndaisyswimmer.bandcamp.com/album/ambient-pieces-for-guitar-vol-2\">Ambient Pieces for Guitar (vol. 2) by Ryann Daisy Swimmer</a></iframe>",
     "price": 20,
-    "sampleScorePath": ""
+    "sampleScorePath": "Qplus (With Watermark).pdf"
   },
   {
     "title": "Tronics",
@@ -85,9 +85,9 @@
     "text": "",
     "explanatory": "",
     "youtubeUrl": "",
-    "bandcampEmbed": "",
+    "bandcampEmbed": "<iframe style=\"border: 0; width: 100%; height: 120px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=663935727/size=large/bgcol=333333/linkcol=4ec5ec/tracklist=false/artwork=small/track=743527445/transparent=true/\" seamless><a href=\"https://ryanndaisyswimmer.bandcamp.com/album/archived-ambient-pieces-for-guitar-2016-2017\">Archived Ambient Pieces for Guitar (2016-2017) by Ryann Daisy Swimmer</a></iframe>",
     "price": 20,
-    "sampleScorePath": ""
+    "sampleScorePath": "Tronics (With Watermark).pdf"
   },
   {
     "title": "Circular Canon",
@@ -100,9 +100,9 @@
     "text": "",
     "explanatory": "",
     "youtubeUrl": "",
-    "bandcampEmbed": "",
+    "bandcampEmbed": "<iframe style=\"border: 0; width: 100%; height: 120px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=4088598018/size=large/bgcol=333333/linkcol=4ec5ec/tracklist=false/artwork=small/track=1604371422/transparent=true/\" seamless><a href=\"https://ryanndaisyswimmer.bandcamp.com/album/live-at-icehouse-92022\">live at icehouse 9.20.22 by Ryann Daisy Swimmer</a></iframe>",
     "price": 20,
-    "sampleScorePath": ""
+    "sampleScorePath": "Circular Canon (With Watermark).pdf"
   },
   {
     "title": "Julius",
@@ -117,7 +117,7 @@
     "youtubeUrl": "",
     "bandcampEmbed": "",
     "price": 25,
-    "sampleScorePath": ""
+    "sampleScorePath": "julius - Score (With Watermark).pdf"
   },
   {
     "title": "Queer Opposition",
@@ -132,7 +132,7 @@
     "youtubeUrl": "",
     "bandcampEmbed": "",
     "price": 25,
-    "sampleScorePath": ""
+    "sampleScorePath": "Queer Opposition - Score (With Watermark).pdf"
   },
   {
     "title": "Tachypsychia: Circadian",
@@ -147,7 +147,7 @@
     "youtubeUrl": "",
     "bandcampEmbed": "",
     "price": 20,
-    "sampleScorePath": ""
+    "sampleScorePath": "Circadian (With Watermark).pdf"
   },
   {
     "title": "Seeds",
@@ -162,7 +162,7 @@
     "youtubeUrl": "",
     "bandcampEmbed": "",
     "price": 20,
-    "sampleScorePath": ""
+    "sampleScorePath": "Seeds (With Watermark).pdf"
   },
   {
     "title": "Pedal Music",
@@ -177,7 +177,7 @@
     "youtubeUrl": "https://youtu.be/rqG_prChQgo",
     "bandcampEmbed": "",
     "price": 25,
-    "sampleScorePath": ""
+    "sampleScorePath": "Pedal Music - Full (With Watermark).pdf"
   },
   {
     "title": "Seven Pools",
@@ -190,9 +190,9 @@
     "text": "",
     "explanatory": "",
     "youtubeUrl": "",
-    "bandcampEmbed": "",
+    "bandcampEmbed": "<iframe style=\"border: 0; width: 100%; height: 120px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=304491456/size=large/bgcol=333333/linkcol=4ec5ec/tracklist=false/artwork=small/track=146427722/transparent=true/\" seamless><a href=\"https://isaacmayhewcomposition.bandcamp.com/album/walking-songs\">Walking Songs by Isaac Mayhew</a></iframe>",
     "price": 20,
-    "sampleScorePath": ""
+    "sampleScorePath": "Seven Pools (With Watermark).pdf"
   },
   {
     "title": "Wrath Month",
@@ -207,7 +207,7 @@
     "youtubeUrl": "",
     "bandcampEmbed": "",
     "price": 20,
-    "sampleScorePath": ""
+    "sampleScorePath": "Wrath Month (With Watermark).pdf"
   },
   {
     "title": "[I've Got] Five Minutes to Kill",
@@ -222,7 +222,7 @@
     "youtubeUrl": "",
     "bandcampEmbed": "",
     "price": 20,
-    "sampleScorePath": ""
+    "sampleScorePath": "[I_ve Got] Five Minutes to Kill (With Watermark).pdf"
   },
   {
     "title": "Tachypsychia",
@@ -234,10 +234,10 @@
     "dedication": "Winner of the 2019 Eric Stokes Song Contest",
     "text": "",
     "explanatory": "<p>I. Landscape (Andante)<br>II. Circadian (Lento [a])<br>III. Dreams (Adagio/Andante)<br>IV. N.D.E. (Lento [b])</p>",
-    "youtubeUrl": "",
+    "youtubeUrl": "https://youtu.be/8_0HbDJPyB4",
     "bandcampEmbed": "",
     "price": 25,
-    "sampleScorePath": ""
+    "sampleScorePath": "Tachypyschia (With Watermark).pdf"
   },
   {
     "title": "Half-Life",
@@ -252,7 +252,7 @@
     "youtubeUrl": "https://youtu.be/GXMvRQWELqw",
     "bandcampEmbed": "<iframe style=\"border: 0; width: 100%; height: 120px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=2878304787/size=large/bgcol=333333/linkcol=4ec5ec/tracklist=false/artwork=small/track=1214755427/transparent=true/\" seamless><a href=\"https://correctorrecords.bandcamp.com/album/corrector-vol-2-impossible-musics\">Corrector Vol. 2: Impossible Musics by Ryann Daisy Swimmer</a></iframe>",
     "price": 0,
-    "sampleScorePath": ""
+    "sampleScorePath": "Half-Life Rhythmic Fractals (With Watermark).pdf"
   },
   {
     "title": "Short Tempered",
@@ -280,9 +280,9 @@
     "text": "",
     "explanatory": "",
     "youtubeUrl": "",
-    "bandcampEmbed": "",
+    "bandcampEmbed": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/230220890&color=%2387aaab&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe>",
     "price": 15,
-    "sampleScorePath": ""
+    "sampleScorePath": "fidelity (for sax and tape) (With Watermark).pdf"
   },
   {
     "title": "Regrets",
@@ -295,9 +295,9 @@
     "text": "Alice Meynell (1847–1922)",
     "explanatory": "",
     "youtubeUrl": "",
-    "bandcampEmbed": "",
+    "bandcampEmbed": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/201944226&color=%2387aaab&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe>",
     "price": 15,
-    "sampleScorePath": ""
+    "sampleScorePath": "Regrets (With Watermark).pdf"
   },
   {
     "title": "The Mysterious Stranger",
@@ -310,8 +310,8 @@
     "text": "Mark Twain (1835–1910)",
     "explanatory": "",
     "youtubeUrl": "",
-    "bandcampEmbed": "",
+    "bandcampEmbed": "<iframe width=\"100%\" height=\"166\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/146101372&color=%2387aaab&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe>",
     "price": 15,
-    "sampleScorePath": ""
+    "sampleScorePath": "The Mysterious Stranger (With Watermark).pdf"
   }
 ]

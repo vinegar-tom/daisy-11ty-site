@@ -271,10 +271,13 @@ object {
   }
 
   main {
-    grid-column: 1 / 11;
+    grid-column: 2 / 11;
     grid-row: 3;
     margin: 0;
-    padding-left: 1rem;
+  }
+
+  main.work {
+    grid-column: 1 / 12;
   }
 
   footer {
