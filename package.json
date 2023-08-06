@@ -8,7 +8,7 @@
     "build": "npx @11ty/eleventy"
   },
   "author": "Mark Engelmann",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1"
   }
