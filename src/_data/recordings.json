@@ -46,5 +46,77 @@
     "releaseDate": "January 8, 2016",
     "url": "https://ryanndaisyswimmer.bandcamp.com/album/termite",
     "embedCode": "<iframe style=\"border: 0; width: 100%; height: 120px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=3653682914/size=large/bgcol=333333/linkcol=4ec5ec/tracklist=false/artwork=small/transparent=true/\" seamless><a href=\"https://ryanndaisyswimmer.bandcamp.com/album/termite\">Termite by Ryann Daisy Swimmer</a></iframe>"
+  },
+  {
+    "title": "live at icehouse 9.20.22",
+    "type": "live",
+    "description": "",
+    "releaseDate": "October 7, 2022",
+    "url": "https://ryanndaisyswimmer.bandcamp.com/album/live-at-icehouse-92022",
+    "embedCode": "<iframe style=\"border: 0; width: 100%; height: 120px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=4088598018/size=large/bgcol=333333/linkcol=4ec5ec/tracklist=false/artwork=small/transparent=true/\" seamless><a href=\"https://ryanndaisyswimmer.bandcamp.com/album/live-at-icehouse-92022\">live at icehouse 9.20.22 by Ryann Daisy Swimmer</a></iframe>"
+  },
+  {
+    "title": "Swimmer, Bressler, & Waldo - Live at Drone Not Drones: The Return",
+    "type": "live",
+    "description": "January 21, 2023 at The Cedar Cultural Center",
+    "releaseDate": "April 7, 2023",
+    "url": "https://drone-not-drones.bandcamp.com/album/drone-not-drones-the-return-of-the-28-hour-drone-minneapolis-2023",
+    "embedCode": "<iframe style=\"border: 0; width: 100%; height: 120px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=2894617369/size=large/bgcol=333333/linkcol=4ec5ec/tracklist=false/artwork=small/track=1399324406/transparent=true/\" seamless><a href=\"https://drone-not-drones.bandcamp.com/album/drone-not-drones-the-return-of-the-28-hour-drone-minneapolis-2023\">DRONE NOT DRONES: THE RETURN of the 28-hour drone, Minneapolis 2023 by Drone Not Drones</a></iframe>"
+  },
+  {
+    "title": "Five Years of Æther Sound",
+    "type": "comp",
+    "description": "Curated and mastered by Jesse Whitney",
+    "releaseDate": "December 16, 2022",
+    "url": "https://aethersound.bandcamp.com/album/five-years-of-ther-sound",
+    "embedCode": "<iframe style=\"border: 0; width: 100%; height: 120px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=2036614993/size=large/bgcol=333333/linkcol=4ec5ec/tracklist=false/artwork=small/track=3779436897/transparent=true/\" seamless><a href=\"https://aethersound.bandcamp.com/album/five-years-of-ther-sound\">Five Years of Æther Sound by Various Artists</a></iframe>"
+  },
+  {
+    "title": "Corrector Vol. 2: Impossible Musics",
+    "type": "comp",
+    "description": "Curated and produced by Ryann Daisy Swimmer",
+    "releaseDate": "April 23, 2021",
+    "url": "https://correctorrecords.bandcamp.com/album/corrector-vol-2-impossible-musics",
+    "embedCode": "<iframe style=\"border: 0; width: 100%; height: 120px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=2878304787/size=large/bgcol=333333/linkcol=4ec5ec/tracklist=false/artwork=small/transparent=true/\" seamless><a href=\"https://correctorrecords.bandcamp.com/album/corrector-vol-2-impossible-musics\">Corrector Vol. 2: Impossible Musics by Corrector Records</a></iframe>"
+  },
+  {
+    "title": "Walking Songs",
+    "type": "comp",
+    "description": "Curated by <a href=\"https://www.isaacmayhewcomposition.com/walking-songs\">Isaac Mayhew</a>",
+    "releaseDate": "November 6, 2020",
+    "url": "https://isaacmayhewcomposition.bandcamp.com/album/walking-songs",
+    "embedCode": "<iframe style=\"border: 0; width: 100%; height: 120px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=304491456/size=large/bgcol=333333/linkcol=4ec5ec/tracklist=false/artwork=small/track=146427722/transparent=true/\" seamless><a href=\"https://isaacmayhewcomposition.bandcamp.com/album/walking-songs\">Walking Songs by Isaac Mayhew</a></iframe>"
+  },
+  {
+    "title": "R e : W o r k s (vol. II)",
+    "type": "comp",
+    "description": "A collaborative project of composers remixing works by their peers",
+    "releaseDate": "November 13, 2020",
+    "url": "https://reworks.bandcamp.com/album/r-e-w-o-r-k-s-vol-ii",
+    "embedCode": "<iframe style=\"border: 0; width: 100%; height: 120px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=252864963/size=large/bgcol=333333/linkcol=4ec5ec/tracklist=false/artwork=small/track=1250710078/transparent=true/\" seamless><a href=\"https://reworks.bandcamp.com/album/r-e-w-o-r-k-s-vol-ii\">R e : W o r k s (vol. II) by various artists</a></iframe>"
+  },
+  {
+    "title": "Swimmer, Bressler, & Waldo - w.i.n.t.r.",
+    "type": "collab",
+    "description": "Ryann Daisy Swimmer, Kenneth Gregory Bressler, & Jonathan Tatnall Waldo",
+    "releaseDate": "March 3, 2023",
+    "url": "https://swimmerbresslerwaldo.bandcamp.com/album/w-i-n-t-r",
+    "embedCode": "<iframe style=\"border: 0; width: 100%; height: 120px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=1312213886/size=large/bgcol=333333/linkcol=4ec5ec/tracklist=false/artwork=small/transparent=true/\" seamless><a href=\"https://swimmerbresslerwaldo.bandcamp.com/album/w-i-n-t-r\">w.i.n.t.r. by Swimmer, Bressler &amp; Waldo</a></iframe>"
+  },
+  {
+    "title": "montezuma's grenades - symbiosis: tableau",
+    "type": "collab",
+    "description": "Ryann Daisy Swimmer & Ryan Schneider",
+    "releaseDate": "May 7, 2021",
+    "url": "https://montezumasgrenades.bandcamp.com/album/symbiosis-tableau",
+    "embedCode": "<iframe style=\"border: 0; width: 100%; height: 120px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=4134501864/size=large/bgcol=333333/linkcol=4ec5ec/tracklist=false/artwork=small/transparent=true/\" seamless><a href=\"https://montezumasgrenades.bandcamp.com/album/symbiosis-tableau\">symbiosis: tableau by montezuma&#39;s grenades</a></iframe>"
+  },
+  {
+    "title": "montezuma's grenades - we could have more fire(s)",
+    "type": "collab",
+    "description": "Ryann Daisy Swimmer & Ryan Schneider",
+    "releaseDate": "May 7, 2021",
+    "url": "https://montezumasgrenades.bandcamp.com/album/we-could-have-more-fire-s",
+    "embedCode": "<iframe style=\"border: 0; width: 100%; height: 120px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=1445015687/size=large/bgcol=333333/linkcol=4ec5ec/tracklist=false/artwork=small/transparent=true/\" seamless><a href=\"https://montezumasgrenades.bandcamp.com/album/we-could-have-more-fire-s\">we could have more fire(s) by montezuma&#39;s grenades</a></iframe>"
   }
 ]

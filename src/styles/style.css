@@ -188,20 +188,32 @@ nav li {
   text-decoration: none;
 }
 
-.works>ul {
+.works>ul,
+.recordings>ul {
   list-style-type: none;
   padding-left: 0.8rem;
 }
 
-.works>ul>ul {
+.works>ul>ul,
+.recordings>ul>ul {
   list-style-type: none;
   margin-bottom: 1.5rem;
   padding-left: 0.8rem;
 }
 
-.works h3 {
+.works h3,
+.recordings h3 {
   margin-top: 2rem;
   color: var(--accent);
+}
+
+.works h3:first-of-type,
+.recordings h3:first-of-type {
+  margin-top: 1rem;
+}
+
+.recordings iframe {
+  padding-top: 0.5rem;
 }
 
 .work-title a {
