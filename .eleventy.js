@@ -9,6 +9,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addWatchTarget('./src/scores');
 
   return {
+    pathPrefix: '/daisy-11ty-site/',
     dir: {
       input: 'src',
       output: 'dist'
