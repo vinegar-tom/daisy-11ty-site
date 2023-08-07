@@ -118,6 +118,7 @@ nav button {
   border-radius: 0.3rem;
   color: var(--text-dark);
   background-color: var(--background-dark);
+  padding: 0.2rem;
 }
 
 nav button:active {
@@ -263,6 +264,11 @@ nav li {
 .price {
   font-weight: bold;
   font-family: monospace;
+}
+
+.score-button {
+  width: 14rem;
+  margin-top: 1rem;
 }
 
 object {
