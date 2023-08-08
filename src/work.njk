@@ -36,10 +36,11 @@ eleventyComputed:
   </div>
   <div class="pdf">
     {% if work.sampleScorePath %}
-    <object data="/scores/{{ work.sampleScorePath }}" width="500px">
-      <button type="button" class="score-button"><a href="/scores/{{ work.sampleScorePath }}" target="_blank">
-        View PDF perusal score.</a></button>
-    </object>
+    <div class="dl-pdf">
+      <a href="/scores/{{ work.sampleScorePath }}" target="_blank">
+      Download PDF perusal score.</a>
+    </div>
+    <embed src="/scores/{{ work.sampleScorePath }}" type="application/pdf" width="500px">
     {% endif %}
     <section class="purchase">
       <p><span class="price">Price: ${{ work.price }}</span></p>
