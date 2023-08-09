@@ -32,6 +32,8 @@ button {
 h1,
 h1 a {
   font-size: calc(1.6rem + 0.3vw);
+  font-weight: normal;
+  letter-spacing: 1px;
 }
 
 h2 {
@@ -40,6 +42,11 @@ h2 {
 
 h3 {
   font-size: calc(1.1rem + 0.3vw);
+}
+
+h2,
+h3 {
+  letter-spacing: 1px;
 }
 
 a {
@@ -93,6 +100,7 @@ nav h1 {
   flex: 1 auto;
   margin: 0;
   line-height: 1.5;
+  text-shadow: 2px 2px var(--background-light);
 }
 
 nav h1>a {
@@ -223,7 +231,11 @@ nav li {
 }
 
 .work-title a {
-  font-weight: bold;
+  font-style: italic;
+}
+
+.work h2 {
+  font-style: italic;
 }
 
 .work p {
@@ -274,9 +286,9 @@ nav li {
   display: flex;
   align-items: center;
   justify-content: center;
-  border: 2px solid var(--text-dark);
-  border-radius: 1rem;
+  border-radius: 5px;
   margin-top: 2rem;
+  box-shadow: 2px 2px var(--accent);
 }
 
 .dl-pdf a {
