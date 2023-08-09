@@ -14,7 +14,7 @@ jobs:
       - name: Use Node.js current
         uses: actions/setup-node@v3
         with:
-          node-version: current
+          node-version: lts/*
 
       - name: Install dependencies & build
         run: |

@@ -173,6 +173,10 @@ nav li {
   list-style-type: none;
 }
 
+.new-links h3 {
+  letter-spacing: normal;
+}
+
 .new-links li {
   display: flex;
   align-items: center;
