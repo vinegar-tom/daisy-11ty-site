@@ -64,7 +64,7 @@ main a:hover {
 }
 
 header {
-  border-bottom: 2px solid var(--text-dark);
+  border-bottom: 3px solid var(--text-dark);
   padding-bottom: 1rem;
 }
 
@@ -75,7 +75,7 @@ header {
 
 .shift-down {
   position: relative;
-  top: 0.3rem;
+  top: 0.5rem;
 }
 
 main {
@@ -100,7 +100,6 @@ nav h1 {
   flex: 1 auto;
   margin: 0;
   line-height: 1.5;
-  text-shadow: 2px 2px var(--background-light);
 }
 
 nav h1>a {
@@ -175,6 +174,7 @@ nav li {
 
 .new-links h3 {
   letter-spacing: normal;
+  font-weight: normal;
 }
 
 .new-links li {
@@ -183,9 +183,9 @@ nav li {
   min-height: 3rem;
   background-color: var(--background-light);
   color: var(--text-light);
-  border-radius: 1rem;
-  margin-bottom: 1rem;
-  box-shadow: 3px 4px var(--accent);
+  border-radius: 1.4rem;
+  margin-bottom: 1.5rem;
+  border: 2px solid var(--text-light);
 }
 
 .new-links a {
