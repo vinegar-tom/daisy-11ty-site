@@ -186,18 +186,20 @@ nav li {
   border-radius: 1.4rem;
   margin-bottom: 1.5rem;
   border: 2px solid var(--text-light);
+  transition: transform 0.4s;
+}
+
+.new-links li:hover {
+  transform: scale(1.06);
 }
 
 .new-links a {
   padding: 1rem;
   flex: auto;
-  transition: padding 0.25s ease-in-out;
 }
 
 .new-links a:hover {
   text-decoration: underline;
-  padding: 1.3rem 1rem;
-  transition: padding 0.25s ease-in-out;
 }
 
 .new-links * {
