@@ -5,30 +5,30 @@ layout: base.njk
 
 <main class="works">
   <h2>{{ title }}</h2>
-  {% for genre in genres %}
+  {%- for genre in genres %}
   <h3 id="genre-{{ genre.code }}">{{ genre.name }}</h3>
   <ul>
-    {% for work in works %}
-    {% if work.genre === genre.code %}
+    {%- for work in works %}
+    {%- if work.genre === genre.code %}
     <li class="work-title">
       <a href="/works/{{ work.title | slugify }}">
         <span>{{ work.title }}</span>
-        {% if work.subtitle %}<br><span>{{ work.subtitle }}</span>{% endif %}
+        {%- if work.subtitle %}<br><span>{{ work.subtitle }}</span>{%- endif %}
       </a>
     </li>
     <ul>
-      {% if work.dedication %}
+      {%- if work.dedication %}
       <li>{{ work.dedication | safe }}</li>
-      {% endif %}
+      {%- endif %}
       <li>Instrumentation: {{ work.instrumentation }}</li>
-      {% if work.text %}
+      {%- if work.text %}
       <li>Text: {{ work.text }}</li>
-      {% endif %}
+      {%- endif %}
       <li>Composed: {{ work.compositionDate }}</li>
       <li>Duration: {{ work.duration }}</li>
     </ul>
-    {% endif %}
-    {% endfor %}
+    {%- endif %}
+    {%- endfor %}
   </ul>
-  {% endfor %}
+  {%- endfor %}
 </main>
